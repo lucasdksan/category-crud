@@ -2,11 +2,11 @@
 
 Simples CRUD usando GO.
 
-# Descrição
+## Descrição
 
 Este projeto tem como objetivo simular um sistema CRUD (Create, Read, Update, Delete) para categorias aleatórias utilizando o framework Gin em Go. Todos os dados são armazenados em um slice na memória, o que significa que os dados persistem apenas enquanto o sistema estiver em execução.
 
-# Objetivo
+## Objetivo
 
 * Aprender e testar o framework Gin: Este projeto serve como um exercício prático para entender e utilizar o Gin, um framework web rápido e leve para Go.
 
@@ -14,7 +14,7 @@ Este projeto tem como objetivo simular um sistema CRUD (Create, Read, Update, De
 
 * Simular um CRUD completo: Permitir a criação, leitura, atualização e exclusão de categorias em um ambiente simulado, semelhante a um banco de dados em memória.
 
-# Funcionalidades
+## Funcionalidades
 
 * Create: Adicionar novas categorias.
 
@@ -24,7 +24,7 @@ Este projeto tem como objetivo simular um sistema CRUD (Create, Read, Update, De
 
 * Delete: Remover categorias por ID.
 
-# Estrutura do Projeto
+## Estrutura do Projeto
 
 * Controladores: Gerenciam as requisições HTTP e chamam os casos de uso apropriados.
 
@@ -34,7 +34,7 @@ Este projeto tem como objetivo simular um sistema CRUD (Create, Read, Update, De
 
 * Entidades: Definem as estruturas de dados para as categorias.
 
-# Referências
+## Referências
 
 * [ChatGPT](https://chatgpt.com/)
 * [Gin](https://gin-gonic.com/docs/)
