@@ -36,5 +36,5 @@ Este projeto tem como objetivo simular um sistema CRUD (Create, Read, Update, De
 
 # Referências
 
-[ChatGPT](https://chatgpt.com/)
-[Gin](https://gin-gonic.com/docs/)
+* [ChatGPT](https://chatgpt.com/)
+* [Gin](https://gin-gonic.com/docs/)
